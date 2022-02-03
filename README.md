@@ -4,7 +4,7 @@ Dans ce projet, nous avons cherché à trouver les valeurs propres et les vecteu
 matrice symétrique. Pour cela, nous avons utilisé plusieurs fois le principe de la décomposition QR
 avec la méthode de Householder.
 
-Ci joint dans le dossier: 
+Ci joint dans le dossier:  [MéthodeQR-Fortran&Matlab.zip](https://github.com/MonaJnhm/Methode-QR/files/7996896/MethodeQR-Fortran.Matlab.zip)
 
 --PDF correspondant au sujet du projet06.
 --Makefile
@@ -14,7 +14,6 @@ Ci joint dans le dossier:
 --Rapport rapport-projet6.pdf
 --aareadme
 
-[MéthodeQR-Fortran&Matlab.zip](https://github.com/MonaJnhm/Methode-QR/files/7996896/MethodeQR-Fortran.Matlab.zip)
 
 Le programme QR.f demande à la saisie 
 --la taille de la matrice carré
